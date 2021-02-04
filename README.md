@@ -1,5 +1,8 @@
+# UPDATE
+
 **NEW**: A better implementation of the Shape Library has been developed by the [Canadian Heritage Information Network](https://github.com/chin-rcip) and released in [this repository](https://github.com/chin-rcip/diagrams.net_libraries)
 
+---
 
 # CIDOC-CRM Shape Library
 
