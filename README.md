@@ -1,9 +1,10 @@
+**NEW**: A better implementation of the Shape Library has been developed by the [Canadian Heritage Information Network](https://github.com/chin-rcip) and released in [this repository](https://github.com/chin-rcip/diagrams.net_libraries)
+
+
 # CIDOC-CRM Shape Library
 
 
 Shape library of CIDOC-CRM classes to be used with draw.io/diagrams.net
-
-A better implementation has been developed by the [Canadian Heritage Information Network](https://github.com/chin-rcip) and available in [this repository](https://github.com/chin-rcip/diagrams.net_libraries)
 
 
 ## How does it work
