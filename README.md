@@ -3,6 +3,8 @@
 
 Shape library of CIDOC-CRM classes to be used with draw.io/diagrams.net
 
+A better implementation has been developed by the [Canadian Heritage Information Network](https://github.com/chin-rcip) and available at [this repository](https://github.com/chin-rcip/diagrams.net_libraries)
+
 
 ## How does it work
 
